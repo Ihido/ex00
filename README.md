@@ -1,1 +1,1 @@
-# Java Bootcamp
+# Java Bootcamp Day 00
